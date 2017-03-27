@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1490011012 source:c:\users\wyatt\desktop\codes\cb\test\connect 4\c4play.cpp
+	<iostream>
+	"c4play.h"
+
+1490021494 source:c:\users\wyatt\desktop\codes\cb\test\connect 4\main.cpp
+	"Board.h"
+	"MiniMax.h"
+	"LinkedList.h"
+	<iostream>
+	<queue>
+
+1490010779 c:\users\wyatt\desktop\codes\cb\test\connect 4\c4play.cpp
+	<iostream>
+
+1490011009 c:\users\wyatt\desktop\codes\cb\test\connect 4\c4play.h
+
+1490023076 c:\users\wyatt\desktop\codes\cb\test\connect 4\include\board.h
+	<iostream>
+
+1490026823 source:c:\users\wyatt\desktop\codes\cb\test\connect 4\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1490025636 c:\users\wyatt\desktop\codes\cb\test\connect 4\include\minimax.h
+	"board.h"
+	<stack>
+
+1490020489 c:\users\wyatt\desktop\codes\cb\test\connect 4\include\linkedlist.h
+	"board.h"
+	<iostream>
+
+1490026833 source:c:\users\wyatt\desktop\codes\cb\test\connect 4\src\minimax.cpp
+	"MiniMax.h"
+	"Board.h"
+	<stack>
+
+1490020611 source:c:\users\wyatt\desktop\codes\cb\test\connect 4\src\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
